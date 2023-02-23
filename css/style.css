@@ -1,0 +1,12 @@
+.color-nav {
+  background-color: chartreuse;
+}
+body {
+  box-sizing: border-box;
+}
+.section1 {
+  background-color: darkcyan;
+}
+* {
+  margin: 0;
+}
